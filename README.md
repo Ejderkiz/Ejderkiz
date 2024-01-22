@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ejderkiz / ドラゴン / DragonGirl / Syd / with friends @long, @sakura, @ElCelil,@muse, @satoshi, @octopus, @snowball, @ghost, @aaron, @sword, @sheriff, @Kaan and friends far and near..
+- 👋 Hi, I’m @Ejderkiz / ドラゴン / DragonGirl / Syd / with friends @long, @sakura, @ElCelil,@muse, @satoshi, @octopus, @snowball, @ghost, @aaron, @sword, @sheriff, @Kaan∞ and friends far and near..
 -  👀 I’m a Product manager and co-coder. I have recently working on AI, Haptic programming, and Mobile products. 
 - 🌱 I’m interested in Machine learning algorithms
 - 💞️ I'm sharing some working examples and libraries in 'On the Fly' security methods. 
